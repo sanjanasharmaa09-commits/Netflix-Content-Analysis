@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Analysis Project
+#  Netflix Content Analysis Project
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 An end-to-end data analytics project analyzing **8,800+ Netflix titles**
 to discover content strategy patterns using a complete data analytics
@@ -18,7 +18,7 @@ companies use in real-world analytics roles.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 - Analyze Netflix content library using SQL, Python, and Power BI
 - Discover what drives Netflix content strategy
@@ -27,7 +27,7 @@ companies use in real-world analytics roles.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -74,7 +74,7 @@ Netflix-Content-Analysis/
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 1. **Content Mix** — 70% Movies vs 30% TV Shows
 2. **Peak Season** — Oct–Dec has highest content additions
@@ -84,7 +84,7 @@ Netflix-Content-Analysis/
 
 ---
 
-## 🤖 Machine Learning Model
+## Machine Learning Model
 
 | Metric | Score |
 |--------|-------|
@@ -105,7 +105,7 @@ Netflix-Content-Analysis/
 
 ---
 
-## 🗄️ SQL Queries Included
+##  SQL Queries Included
 
 1. Content Type Distribution
 2. Top 10 Countries by Content
@@ -164,7 +164,7 @@ python python/03_machine_learning.py
 
 ---
 
-## 💼 Resume Entry
+##  Resume Entry
 ```
 NETFLIX CONTENT ANALYSIS PROJECT
 Data Analytics | MySQL, Python, Power BI | Jan 2026
@@ -187,7 +187,7 @@ Seaborn, Power BI, DAX, Data Cleaning, Machine Learning
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sanjana Sharma**
 BCA Final Year — Graphic Era Hill University, Bhimtal
