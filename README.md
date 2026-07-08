@@ -10,6 +10,7 @@
 ## Project overview
 An end-to-end data analytics project analyzing **8,800+ Netflix titles**
 to discover content strategy patterns using a complete data analytics
+
 workflow — from database to interactive dashboard.
 
 This project demonstrates the **full data analyst pipeline** that
