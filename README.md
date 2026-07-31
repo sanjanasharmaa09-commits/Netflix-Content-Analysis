@@ -39,25 +39,25 @@ companies use in real-world analytics roles.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 Netflix-Content-Analysis/
 │
-├── 📁 python/
+├──  python/
 │   ├── 01_data_cleaning.py        ← Data cleaning & preprocessing
 │   ├── 02_eda_visualizations.py   ← 8 professional charts
 │   └── 03_machine_learning.py     ← Random Forest ML model
 │
-├── 📁 sql/
+├──  sql/
 │   ├── 01_create_database.sql     ← Database setup & import
 │   └── 02_analysis_queries.sql    ← 10 analytical queries
 │
-├── 📁 dashboard/
+├── dashboard/
 │   └── Netflix_Dashboard.pbix     ← Power BI dashboard file
 │
-├── 📁 outputs/
-│   ├── 📁 charts/                 ← 8 EDA visualization PNGs
-│   └── 📁 ml/                     ← ML result charts & summary
+├──  outputs/
+│   ├──  charts/                 ← 8 EDA visualization PNGs
+│   └──  ml/                     ← ML result charts & summary
 │
 └── README.md
 ```
@@ -120,7 +120,7 @@ Netflix-Content-Analysis/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Step 1 — Get Dataset
 Download `netflix_titles.csv` from:
@@ -155,12 +155,12 @@ python python/03_machine_learning.py
 
 | # | Deliverable | Status |
 |---|-------------|--------|
-| 1 | MySQL database with 10 queries | ✅ Done |
-| 2 | Cleaned dataset (7,561 records) | ✅ Done |
-| 3 | 8 professional visualizations | ✅ Done |
-| 4 | Random Forest ML model (~95%) | ✅ Done |
-| 5 | Interactive 2-page Power BI dashboard | ✅ Done |
-| 6 | 5 business recommendations | ✅ Done |
+| 1 | MySQL database with 10 queries | Done |
+| 2 | Cleaned dataset (7,561 records) | Done |
+| 3 | 8 professional visualizations | Done |
+| 4 | Random Forest ML model (~95%) | Done |
+| 5 | Interactive 2-page Power BI dashboard | Done |
+| 6 | 5 business recommendations |  Done |
 
 ---
 
