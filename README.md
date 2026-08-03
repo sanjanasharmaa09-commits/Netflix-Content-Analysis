@@ -18,7 +18,7 @@ companies use in real-world analytics roles.
 
 ---
 
-##  Objective
+# Objective
 
 - Analyze Netflix content library using SQL, Python, and Power BI
 - Discover what drives Netflix content strategy
